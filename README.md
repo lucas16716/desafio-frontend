@@ -17,7 +17,7 @@
 
 <h2>PROJETO</h2>
 
-Solução técnica para o desafio front-end da vaga da APCD, focada em codificar um protótipo de página de formulário do Figma em uma aplicação web funcional (de acordo com as solicitadas no desafio) e responsiva.
+O projeto se trata de uma **solução técnica** para o **desafio front-end** do processo seletivo da vaga de assistente de programador web na empresa APCD. O desafio consiste em codificar fielmente um protótipo de uma página de formulário, com foco na implementação de um layout responsivo e na interatividade do formulário (conforme as especificações solicitadas), visando um código limpo, funcional e bem estruturado.
 
 - 🌐 <a href="https://lucas16716.github.io/desafio-frontend/">Acesse a solução (GitHub Pages)
 
@@ -44,7 +44,6 @@ Solução técnica para o desafio front-end da vaga da APCD, focada em codificar
 
 ```bash
 📁 desafio-frontend
-│
 ├── index.html               # Estrutura principal (HTML)
 ├── style.css                # Folha de estilos (CSS)
 ├── script.js                # Lógica de interatividade (JS)
